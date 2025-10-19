@@ -1,0 +1,5 @@
+mau xanh blue: #007bff
+xanh green nhat: #20c997
+xam nhat: #6c757d
+xam dam: #343a40
+mau gradient: linear-gradient(90deg, #E01C10 0%, #F38B3F 100%)
